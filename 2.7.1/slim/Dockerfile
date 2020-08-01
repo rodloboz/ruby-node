@@ -1,4 +1,4 @@
-FROM ruby:latest
+FROM ruby:2.7.1
 LABEL maintainer "Rui Freitas <dinnerpartysaboteur@gmail.com>"
 
 ARG REFRESHED_AT

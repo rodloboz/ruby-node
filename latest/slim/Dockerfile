@@ -1,4 +1,4 @@
-FROM ruby:2.6.5-slim
+FROM ruby:slim
 LABEL maintainer "Rui Freitas <dinnerpartysaboteur@gmail.com>"
 
 ARG REFRESHED_AT

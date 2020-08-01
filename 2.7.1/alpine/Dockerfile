@@ -1,4 +1,4 @@
-FROM ruby:alpine
+FROM ruby:2.7.1-alpine
 LABEL maintainer "Rui Freitas <dinnerpartysaboteur@gmail.com>"
 
 ARG REFRESHED_AT
